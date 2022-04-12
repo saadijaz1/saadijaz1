@@ -13,4 +13,6 @@ Five basic types of data science projects, which are:
   2. Binary Outcome Project
   3. Continuous Outcome Project
   4. Clustering Projects
-  5. Deep Neural Networks Project
+  5. Deep Neural Networks Project (In progress)
+  
+  * Projects using SQL are in progress
