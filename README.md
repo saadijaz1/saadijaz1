@@ -9,7 +9,7 @@
 
 In the repositories you will find:
 Five basic types of data science projects, which are:
-  1. Exploaratory Projects
+  1. Exploratory Projects
   2. Binary Outcome Project
   3. Continuous Outcome Project
   4. Clustering Projects
